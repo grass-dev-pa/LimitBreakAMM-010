@@ -1,0 +1,11 @@
+creator-token-standards/=../lbamm-hooks-and-handlers/lib/creator-token-standards/
+creator-token-transfer-validator/=../lbamm-core/lib/creator-token-transfer-validator/
+@limitbreak/tm-core-lib/=../lbamm-core/lib/tm-core-lib
+@limitbreak/tm-role-server/=../lbamm-core/lib/tm-role-server
+@limitbreak/secure-proxy/=../secure-proxy
+@limitbreak/permit-c/=../lbamm-hooks-and-handlers/lib/creator-token-standards/lib/PermitC/src/
+@limitbreak/wrapped-native/=../lbamm-core/lib/wrapped-native/src/
+forge-std/=lib/forge-std/src/
+@limitbreak/lb-amm-core/=../lbamm-core/
+@limitbreak/lb-amm-hooks-and-handlers/=../lbamm-hooks-and-handlers/
+@openzeppelin/contracts/=../lbamm-core/lib/creator-token-transfer-validator/lib/PermitC/lib/openzeppelin-contracts/contracts/

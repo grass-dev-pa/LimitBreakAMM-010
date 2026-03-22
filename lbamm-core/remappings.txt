@@ -1,0 +1,9 @@
+creator-token-standards/=lib/creator-token-standards/
+creator-token-transfer-validator/=lib/creator-token-transfer-validator/
+@limitbreak/tm-core-lib/=lib/tm-core-lib/
+@limitbreak/tm-role-server/=lib/tm-role-server
+@limitbreak/secure-proxy/=../secure-proxy/
+@limitbreak/wrapped-native/=lib/wrapped-native/src/
+@limitbreak/permit-c/=lib/creator-token-transfer-validator/lib/PermitC/src/
+@openzeppelin/contracts/=lib/creator-token-transfer-validator/lib/PermitC/lib/openzeppelin-contracts/contracts/
+forge-std/=lib/forge-std/src/
